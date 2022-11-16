@@ -5834,7 +5834,7 @@ h2:after {
         border: 1px solid rgb(235, 235, 235);
     }
     input[type="checkbox"]:checked:after {
-        content: "";
+        content: "✓";
         font-family: icomoon;
         color: rgb(209, 77, 29);
         font-weight: 600;
