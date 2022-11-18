@@ -5836,7 +5836,7 @@ h2:after {
     input[type="checkbox"]:checked:after {
         content: "✓";
         font-family: icomoon;
-        color: rgb(209, 77, 29);
+        color: rgb(0, 0, 0);
         font-weight: 600;
         line-height: 1;
         font-size: 25px;
