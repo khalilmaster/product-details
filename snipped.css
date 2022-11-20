@@ -6195,11 +6195,10 @@ h2:after {
     box-shadow: 0 0 0 0.2rem #d14d1d8c;
 }
 
-.btn-primary:focus {
+.btn-primary:hover {
     color: #fff;
     background-color: #d14d1d;
-    border-color: #d14d1d;
-    box-shadow: 0 0 0 0.2rem #d14d1d8c;
+    border-color: #ebebeb;
 }
 
 #cartPanelId {
