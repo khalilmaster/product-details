@@ -6140,7 +6140,7 @@ h2:after {
 }
 
 
-.btn-primary {
+.btn.btn-primary {
     background: #fff;
     color: hsl(0deg 0% 13%);
     border-color: #d14d1d;
@@ -6222,3 +6222,4 @@ h5#imsgk6 {
 p#inr5v5 {
     margin-left: 10px;
 }
+
