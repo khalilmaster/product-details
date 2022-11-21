@@ -6222,3 +6222,11 @@ p#inr5v5 {
     margin-left: 10px;
 }
 
+.cartPanelHeader {
+    padding: 1%;
+    border-color: lightgrey;
+    border-style: solid;
+    border-width: thin;
+    min-height: 2%;
+    overflow: hidden;
+}
